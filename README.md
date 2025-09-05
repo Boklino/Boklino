@@ -2,12 +2,12 @@
 
 <!-- ![Profile Image](profile_image.jpg) -->
 
-Hello, I'm **Youssef AlBokl**, a junior Fullstack Developer with a passion for building responsive, user-centric applications.
+Hello, I'm **Youssef AlBokl**, a Fullstack Developer with a passion for building responsive, user-centric applications.
 
 ## Skills
 
 - Front-end: JavaScript, React.js, CSS, Tailwind CSS, Bootstrap
-- Back-end: Node.js, Express.js
+- Back-end: Node.js, Express.js, PHP
 - Databases: MongoDB, PostgreSQL
 
 ## Get In Touch
